@@ -49,7 +49,7 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "アーガマン",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
@@ -63,6 +63,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "google",
+    search_engine: "duckduckgo",
 
 }
